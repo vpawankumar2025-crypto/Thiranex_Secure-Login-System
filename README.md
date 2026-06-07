@@ -1,6 +1,6 @@
 # Secure Login System
 
-A beginner-friendly Flask web application that demonstrates secure user registration and login using hashed passwords, input validation, session management, logout functionality, and optional demo 2FA. OWASP recommends strong password storage with modern hashing algorithms, parameterized database queries to prevent SQL injection, and careful session management to protect authenticated users.[web:10][web:71][web:72]
+A beginner-friendly Flask web application that demonstrates secure user registration and login using hashed passwords, input validation, session management, logout functionality, and optional demo 2FA. OWASP recommends strong password storage with modern hashing algorithms, parameterized database queries to prevent SQL injection, and careful session management to protect authenticated users.
 
 ## Features
 
